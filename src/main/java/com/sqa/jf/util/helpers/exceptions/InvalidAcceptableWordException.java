@@ -8,7 +8,7 @@
  *   
  */
 
-package com.sqa.jf.util.helpers;
+package com.sqa.jf.util.helpers.exceptions;
 
 /**
  * InvalidAcceptableWordException //ADDD (description of class)

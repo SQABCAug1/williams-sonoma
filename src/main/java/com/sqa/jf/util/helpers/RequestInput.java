@@ -12,6 +12,9 @@ package com.sqa.jf.util.helpers;
 
 import java.util.Scanner;
 
+import com.sqa.jf.util.helpers.exceptions.InvalidAcceptableNumberException;
+import com.sqa.jf.util.helpers.exceptions.InvalidAcceptableWordException;
+
 /**
  * RequestInput
  *
