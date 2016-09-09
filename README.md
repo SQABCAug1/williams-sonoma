@@ -1,13 +1,17 @@
-#Basic Java Project
+#Automation Project
 
-*Simple Java Project*
+*Project for creating automation tests using TestNG and Selenium.*
 
 **Java 7**
 
-* Java Application
+* Selenium WebDriver
 * Maven
-* JUnit
+* TestNG
+* Log4j
+* JDBC
+* SQL
+* CVS/ Test
 
-Simple Java Application. 
+Automation Project.
 
 [Jean-francois Nepton](http://sqasolution.com)

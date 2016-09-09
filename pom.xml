@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.jf</groupId>
-	<artifactId>jogged-hours</artifactId>
+	<artifactId>auto-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Jogged Hours Application</name>
-	<description>Application which logs hours jogged.</description>
+	<name>Automation Project</name>
+	<description>Project for creating automation tests using TestNG and Selenium.</description>
 
 	<dependencies>
 		<dependency>
@@ -19,8 +19,13 @@
 			<artifactId>selenium-java</artifactId>
 			<version>2.53.0</version>
 		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
 	</dependencies>
-
+	
 	<build>
 		<plugins>
 			<plugin>
@@ -34,6 +39,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
 </project>
